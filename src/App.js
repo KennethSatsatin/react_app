@@ -1,5 +1,7 @@
 import React from "react";
 import { useState, useEffect } from "react";
+import React from "react";
+import { useState, useEffect } from "react";
 import './App.css';
 import SearchIcon from './search.svg';
 import MovieCard from "./MovieCard";
